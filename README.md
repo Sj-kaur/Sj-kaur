@@ -8,3 +8,4 @@
 Sj-kaur/Sj-kaur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+An enthusiastic fresher with highly motivated and leadership skills having bachelors of engineering degree in Information Technology. I am self-motivated , confident and a dedicated person to achieve goals. I love to explore things which make me feel interested, and enjoy every part of my work, as I do it with great passion.
